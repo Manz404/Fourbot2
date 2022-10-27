@@ -9,7 +9,7 @@ global.prems = []
 global.kontak = ['13605124705']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
+global.naown = 'Manz404'
 global.noown = '13605124705'
 global.namebot = 'Scurity Dead Scream'
 global.nobot = '6285624965449'
