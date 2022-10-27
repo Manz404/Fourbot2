@@ -18,8 +18,8 @@ global.nobot = '6285624965449'
 global.instagram = 'https://instagram.com/_dead.scream_'
 global.github = 'https://github.com/Manz404'
 global.gc = 'https://chat.whatsapp.com/ngokngok'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/Kricom'
+global.web = 'https://lynk.id/deadsream' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = 'https://saweria.co/Manztod'
 
 // PAYMANT 
 global.dana = '081312402892'
