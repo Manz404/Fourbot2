@@ -30,16 +30,16 @@ FN: ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
 item1.TEL;waid=13605124705:13605124705@s.whatsapp.net
 item1.X-ABLabel: Nomor Owner Bot
-item2.EMAIL;type=INTERNET: mhdfakri14@gmail.com
+item2.EMAIL;type=INTERNET: mochammadimannudin87@gmail.com@gmail.com
 item2.X-ABLabel:📫 Gmail
-item3.ADR:;;📍 Acehnese - Indonesian;;;;
+item3.ADR:;;📍 Cirebon - Indonesian;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:📮 Location Owner
 item4.URL:http://youtube.com/c/hokenbeusz
 item4.X-ABLabel:Youtube
 item5.URL:https//github.com/krizynofc
 item5.X-ABLabel:Github
-item6.URL:https//instagram.com/mhdfakri_
+item6.URL:https//instagram.com/manztod.jpg
 item6.X-ABLabel:Instagram
 item7.URL:https://lynk.id/kri.com
 item7.X-ABLabel:Website
