@@ -28,7 +28,7 @@ VERSION:3.0
 N:;;;
 FN: ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=62895327934887:62895327934887@s.whatsapp.net
+item1.TEL;waid=13605124705:13605124705@s.whatsapp.net
 item1.X-ABLabel: Nomor Owner Bot
 item2.EMAIL;type=INTERNET: mhdfakri14@gmail.com
 item2.X-ABLabel:📫 Gmail
