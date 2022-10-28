@@ -39,8 +39,6 @@ item4.URL:https//github.com/Manz404
 item4.X-ABLabel:Github
 item5.URL:https//instagram.com/manztod.jpg
 item5.X-ABLabel:Instagram
-item6.URL:https://lynk.id/kri.com
-item6.X-ABLabel:Website
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
     m.chat,
