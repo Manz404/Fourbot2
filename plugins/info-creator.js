@@ -35,14 +35,12 @@ item2.X-ABLabel:📫 Gmail
 item3.ADR:;;📍 Cirebon - Indonesian;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:📮 Location Owner
-item4.URL:http://youtube.com/c/hokenbeusz
-item4.X-ABLabel:Youtube
-item5.URL:https//github.com/Manz404
-item5.X-ABLabel:Github
-item6.URL:https//instagram.com/manztod.jpg
-item6.X-ABLabel:Instagram
-item7.URL:https://lynk.id/kri.com
-item7.X-ABLabel:Website
+item4.URL:https//github.com/Manz404
+item4.X-ABLabel:Github
+item5.URL:https//instagram.com/manztod.jpg
+item5.X-ABLabel:Instagram
+item6.URL:https://lynk.id/kri.com
+item6.X-ABLabel:Website
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
     m.chat,
